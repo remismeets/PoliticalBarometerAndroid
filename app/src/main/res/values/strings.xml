@@ -1,0 +1,59 @@
+<resources>
+    <!-- Drawer & menu -->
+    <string name="app_name">Politieke barometer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_firstname">Try</string>
+    <string name="nav_header_lastname">Catcher</string>
+    <string name="nav_header_profile_picture">Profile picture</string>
+    <string name="logout">Uitloggen</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications">Meldingen</string>
+    <string name="my_widgets">Mijn widgets</string>
+    <string name="user_settings">Gebruikersinstellingen</string>
+    <string name="app_settings">App-instellingen</string>
+    <string name="other">Overige</string>
+    <string name="about_us">Over ons</string>
+    <string name="send_message">Stuur een bericht</string>
+
+    <!-- Login & register -->
+    <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Wachtwoord</string>
+    <string name="login">Login</string>
+    <string name="no_account">Nog geen account?</string>
+    <string name="reenter_password">Bevestig wachtwoord</string>
+    <string name="create_account">Maak een account</string>
+    <string name="already_member">Al een account? Login</string>
+    <string name="preference_file_key">preferenceFileKey</string>
+    <string name="token">token</string>
+    <string name="logging_in">Inloggen…</string>
+    <string name="register">Registreren…</string>
+    <string name="error_login_message">Inloggen mislukt.</string>
+    <string name="error_register_message">Registreren mislukt.</string>
+    <string name="error_invalid_mail">Vul een geldige mail in.</string>
+    <string name="error_invalid_password">Moet meer als 4 karakter lang zijn.</string>
+    <string name="error_invalid_password_match">Wachtwoorden komen niet overeen.</string>
+
+    <!-- Widgets -->
+    <string name="barcharts">Staafgrafieken</string>
+    <string name="linecharts">Lijngrafieken</string>
+    <string name="piecharts">Taartgrafiekenen</string>
+
+    <!-- Alerts -->
+    <string name="error_sync_message">Kan de gegevens niet laden.</string>
+    <string name="error_general">Er is iets misgelopen.</string>
+    <string name="error_save">Kan de gegevens niet opslaan.</string>
+
+    <!-- About us -->
+    <string name="designed_by_try_catchers">Ontwikkeld door de Try Catchers</string>
+    <string name="client">in opdracht van</string>
+
+    <!-- User settings -->
+    <string name="firstname">Voornaam</string>
+    <string name="lastname">Achternaam</string>
+    <string name="save">Opslaan</string>
+    <string name="select_picture">Kies een afbeelding</string>
+    <string name="saving">Gegevens opslaan…</string>
+
+</resources>

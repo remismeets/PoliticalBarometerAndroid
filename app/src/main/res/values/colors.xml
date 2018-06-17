@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#2b8bcc</color>
+    <color name="colorPrimary">#2574a9</color>
+    <color name="colorPrimaryDark">#226a9b</color>
+    <color name="colorPrimaryDarkest">#17527b</color>
+    <color name="colorAccent">#000000</color>
+
+    <!-- Standard colors -->
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#ffffff</color>
+    <color name="transparant">#00ff0000</color>
+
+    <!-- Nice colors -->
+    <color name="nice_navy">#001f3f</color>
+    <color name="nice_blue">#0074D9</color>
+    <color name="nice_aqua">#7FDBFF</color>
+    <color name="nice_teal">#39CCCC</color>
+    <color name="nice_olive">#3D9970</color>
+    <color name="nice_green">#2ECC40</color>
+    <color name="nice_lime">#01FF70</color>
+    <color name="nice_yellow">#FFDC00</color>
+    <color name="nice_orange">#FF851B</color>
+    <color name="nice_red">#FF4136</color>
+    <color name="nice_maroon">#85144b</color>
+    <color name="nice_fuchsia">#F012BE</color>
+    <color name="nice_purple">#B10DC9</color>
+    <color name="nice_black">#111111</color>
+    <color name="nice_silver">#DDDDDD</color>
+
+    <!-- Color array -->
+    <array name="color_array">
+        <item>@color/nice_navy</item>
+        <item>@color/nice_blue</item>
+        <item>@color/nice_aqua</item>
+        <item>@color/nice_teal</item>
+        <item>@color/nice_olive</item>
+        <item>@color/nice_green</item>
+        <item>@color/nice_lime</item>
+        <item>@color/nice_yellow</item>
+        <item>@color/nice_orange</item>
+        <item>@color/nice_red</item>
+        <item>@color/nice_maroon</item>
+        <item>@color/nice_fuchsia</item>
+        <item>@color/nice_purple</item>
+        <item>@color/nice_black</item>
+        <item>@color/nice_silver</item>
+    </array>
+</resources>

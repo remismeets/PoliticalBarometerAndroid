@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "992836912480",
+    "firebase_url": "https://barometerandroid.firebaseio.com",
+    "project_id": "barometerandroid",
+    "storage_bucket": "barometerandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992836912480:android:64a172d0a3049d25",
+        "android_client_info": {
+          "package_name": "be.kdg.androidbarometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992836912480-f5dpbjl8rud79l977oc9j9updi1rfbe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
